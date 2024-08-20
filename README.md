@@ -26,5 +26,3 @@ ZenSign utilizes Digital Signature Algorithm (DSA) principles along with cryptog
 - **Expanded Testing**: Further validation in different scenarios.
 - **Ongoing Research**: Enhance security and efficiency.
 
-## License
-ZenSign is released under the MIT License, promoting open-source collaboration and contributions.
